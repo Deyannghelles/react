@@ -1,0 +1,23 @@
+/* .classContador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+
+
+
+
+
+
+.botao {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.botao:hover {
+  background-color: blue;
+}
